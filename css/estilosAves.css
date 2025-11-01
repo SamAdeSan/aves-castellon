@@ -1,5 +1,5 @@
 body{
-    font-family: "Courier New", Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: clamp(20px, 20px, 20px) 0;
     color: white;
     background-color: #121212;
@@ -11,7 +11,6 @@ body{
     zoom: 90%;
 }
 header, footer {
-    font-family: "Courier New", Courier, monospace;
     background-color: #121212;
     color: white;
     border-radius: 5px;
@@ -22,7 +21,6 @@ header, footer {
 }
 
 h1, h2, h3{
-    font-family: "Courier New", Courier, monospace;
     color: white;
 }
 h1 {
